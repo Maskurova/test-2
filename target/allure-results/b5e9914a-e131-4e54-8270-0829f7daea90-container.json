@@ -1,0 +1,1 @@
+{"uuid":"b5e9914a-e131-4e54-8270-0829f7daea90","name":"checkBasket()","children":["c51b303d-e3ce-4cea-8c95-b88317eb7fc4"],"befores":[],"afters":[{"name":"clearCookiesAndLocalStorage","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1655837884825,"stop":1655837884828}],"links":[],"start":1655837879866,"stop":1655837885367}
